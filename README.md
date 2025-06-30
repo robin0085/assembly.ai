@@ -1,3 +1,10 @@
+### 社会时代变迁
+
+*机器智能更像人类一样，体察入微*
+
+*人类活得如同机器一般，循规蹈矩*
+
+
 # The knowledge can be developed and extended
 
 ### 💡日常活动：编码长度与梯度（具像化 Visualization）
