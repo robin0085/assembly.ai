@@ -13,7 +13,7 @@
 
 *- `2034～2035: 软件工程freeCodeCamp`*
 
-*- `2045～2049: 数字媒体艺术，产品经理，AI Agent & Application`*
+*- `2045～2049: 数字媒体艺术，创意电商，产品经理，AI Agent & Application`*
 
 
 ### Free Travel after 18 Years
