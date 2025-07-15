@@ -16,7 +16,7 @@
 *- `2045～2049: 数字媒体艺术，创意电商，产品经理，AI Agent & Application`*
 
 
-### Free Travel after 18 Years
+### Free Travel after 18 Years （2006-2024）
 
 - 手机电池
 
