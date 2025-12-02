@@ -77,5 +77,5 @@
 
 🔹 [开篇](https://github.com/robin0085/assembly.ai/blob/master/corner_Stone.md)
 
-
+🔹 [Log 02](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log 12022025.md)
 
