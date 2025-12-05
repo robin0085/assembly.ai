@@ -1,4 +1,4 @@
-## 创业基石日志 02
+## 创业基石日志 02 (觉悟)
 
 > Setup Cornerstone Log
 >
