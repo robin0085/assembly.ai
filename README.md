@@ -75,7 +75,7 @@
 
 ###  MaxWell创业基石日志
 
-🔹 [开篇](https://github.com/robin0085/assembly.ai/blob/master/corner_Stone.md)
+🔹 [开篇：信仰](https://github.com/robin0085/assembly.ai/blob/master/corner_Stone.md)
 
-🔹 [Log 02](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log%2012022025.md)
+🔹 [Log 02：觉悟](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log%2012022025.md)
 
