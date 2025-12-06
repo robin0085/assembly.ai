@@ -79,3 +79,6 @@
 
 🔹 [Log 02：觉悟](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log%2012022025.md)
 
+🔹 [Log 03: 业务素养](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log%2012062025.md)
+
+
