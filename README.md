@@ -81,7 +81,7 @@
 
 🔹 [Log 03: 业务素养](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log%2012062025.md)
 
-🔹 [Log 04: 创业乐园](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_12072025.md)
+🔹 [Log 04: 冒险乐园](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_12072025.md)
 
 
 
