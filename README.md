@@ -73,7 +73,7 @@
 
 ---
 
-###  MaxWell创业基石日志
+###  MaxWell创业基石日志 (2025.11.30 - 2045) 
 
 🔹 [开篇：信仰](https://github.com/robin0085/assembly.ai/blob/master/corner_Stone.md)
 
