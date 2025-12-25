@@ -85,3 +85,6 @@
 
 🔹 [Log 05: 乞力马扎罗](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_12212025.md)
 
+🔹 [Log 06: 昨日重现](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_12252025.md)
+
+
