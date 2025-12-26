@@ -87,4 +87,7 @@
 
 🔹 [Log 06: 昨日重现](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_12252025.md)
 
+🔹 [Log 07: 梦回长安](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_12262025.md)
+
+
 
