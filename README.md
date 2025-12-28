@@ -89,5 +89,8 @@
 
 🔹 [Log 07: 梦回长安](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_12262025.md)
 
+🔹 [Log 08: 神笔马良](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_12282025.md)
+
+
 
 
