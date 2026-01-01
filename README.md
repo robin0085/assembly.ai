@@ -91,6 +91,6 @@
 
 🔹 [Log 08: 神笔马良](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_12282025.md)
 
-
+🔹 [Log 09: 千人千面](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_01012026.md)
 
 
