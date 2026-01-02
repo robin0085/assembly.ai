@@ -93,4 +93,9 @@
 
 🔹 [Log 09: 千人千面](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_01012026.md)
 
+🔹 [Log 10: 火星文明](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_01022026.md)
+
+
+
+
 
