@@ -18,6 +18,8 @@
 
 - AI Agent / AGI 应用 / 作品
 
+- The knowledge can be developed and extended
+
 ---
 
 ***小而美：持续经营***
