@@ -101,7 +101,7 @@
 
 🔹 [Log 13: 云游四海](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_01072026.md)
 
-
+🔹 [Log 14: 秋日传奇](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_01082026.md)
 
 
 
