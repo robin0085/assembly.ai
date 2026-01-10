@@ -19,13 +19,15 @@
 
 ---
 
+***商业模式，可行性研究***
+
 - 产品迭代
 
 - 品牌溢价
 
-- Amazon 电商平台，网购平台
+- Amazon 电商平台，各种网购平台
 
-- Facebook / YouTube 社交媒体引流
+- Facebook / YouTube 等社交媒体引流
 
 - Forecast 销售预测，市场趋势
 
