@@ -107,5 +107,5 @@
 
 🔹 [Log 16: 山不转水转](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_01112026.md)
 
-
+🔹 [Log 17: 苍穹浩瀚](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_01152026.md)
 
