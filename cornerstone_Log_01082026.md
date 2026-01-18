@@ -27,7 +27,7 @@
 
 - 社媒平台，Facebook / Whatsapp / YouTube，独立站运营
 
-- AI工具，SmartSales
+- AI工具，Salesmartly
 
 - 行业内展会，朋友圈，上门拜访，黄页等
 
