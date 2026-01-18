@@ -109,3 +109,8 @@
 
 🔹 [Log 17: 苍穹浩瀚](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_01152026.md)
 
+🔹 [Log 18: 春风化雨](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_01182026.md)
+
+
+
+
