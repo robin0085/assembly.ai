@@ -119,5 +119,8 @@
 
 🔸 [Log 22: 新新人类](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_03032026.md)
 
+🔸 [Log 23: 巨人时代](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_03072026.md)
+
+
 
 
