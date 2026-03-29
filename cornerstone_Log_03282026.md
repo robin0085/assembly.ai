@@ -35,7 +35,7 @@
 
 * 菲律宾，印度，南非
 
-* 梧高国际 Ugau Import & Export
+* 梧高国际代理 Ugau Agent
 
 
 
