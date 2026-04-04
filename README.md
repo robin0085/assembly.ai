@@ -127,7 +127,7 @@
 
 🔸 [Log 26: 壮志凌云](https://github.com/robin0085/assembly.ai/blob/master/cornerstone_Log_03282026.md)
 
-
+🔸 [Log 27: 记忆的味道](https://github.com/robin0085/assembly.ai/blob/ugau_Agent/cornerstone_Log_04042026.md)
 
 
 
