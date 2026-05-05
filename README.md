@@ -135,5 +135,9 @@
 
 🔸 [Log 30: 冰与火之歌](https://github.com/robin0085/assembly.ai/blob/ugau_Agent/cornerstone_Log_05012026.md)
 
+🔸 [Log 31: 权力的游戏](https://github.com/robin0085/assembly.ai/blob/ugau_Agent/cornerstone_Log_05052026.md)
+
+
+
 
 
