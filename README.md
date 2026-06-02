@@ -141,3 +141,7 @@
 
 🔸 [Log 33: 大乐透](https://github.com/robin0085/assembly.ai/blob/ugau_Agent/cornerstone_Log_05252026.md)
 
+🔸 [Log 34: 德州扑克](https://github.com/robin0085/assembly.ai/blob/ugau_Agent/cornerstone_Log_06022026.md)
+
+
+
