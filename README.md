@@ -145,3 +145,7 @@
 
 🔸 [Log 35: 天工开物](https://github.com/robin0085/assembly.ai/blob/ugau_Agent/cornerstone_Log_06132026.md)
 
+🔸 [Log 36: 技能树](https://github.com/robin0085/assembly.ai/blob/ugau_Agent/cornerstone_Log_06192026.md)
+
+
+
