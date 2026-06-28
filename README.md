@@ -147,5 +147,5 @@
 
 🔸 [Log 36: 技能树](https://github.com/robin0085/assembly.ai/blob/ugau_Agent/cornerstone_Log_06192026.md)
 
-
+🔸 [Log 37: 野蛮生长](https://github.com/robin0085/assembly.ai/blob/ugau_Agent/cornerstone_Log_06282026.md)
 
